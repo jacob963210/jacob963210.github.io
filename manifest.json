@@ -1,0 +1,10 @@
+{
+  "name": "Bloody Luck",
+  "short_name": "Bloody Luck",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070507",
+  "theme_color": "#090609",
+  "description": "A fictional gothic slot-machine prototype with no real-money wagering.",
+  "icons": []
+}
